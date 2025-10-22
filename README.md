@@ -1,0 +1,2 @@
+# Topological-Neural-Networks-for-Real-Time-Seizure-Detection
+I propose a novel 3-layer Topological Neural Network for EEG seizure detection, integrating multi-scale persistent homology and topological message passing. Using four EEG-based distance matrices, we extract topological features and model temporal dynamics with BiLSTM. Our method achieves 74.36% F1 on CHB-MIT, offering interpretable biomarkers.
